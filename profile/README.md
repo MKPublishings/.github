@@ -27,7 +27,7 @@ We maintain a curated set of Python-based repositories, all focused on AI and qu
 | **[MK-Omni-Engine](https://github.com/MKPublishings/MK-Omni-Engine)** | A versatile Omni AI Framework for building intelligent, adaptive systems. Ideal for developers seeking a unified AI toolkit. | 5 | 1 | Dec 17, 2025 | Python | [MIT](https://github.com/MKPublishings/MK-Omni-Engine/blob/main/LICENSE) |
 | **[trifecta-sovereign-framework](https://github.com/MKPublishings/trifecta-sovereign-framework)** | Open-source integration of Omni AI, Quantum Fibonacci Scheduler, and B.O.C. Genesis Protocol with QuTiP emulation for quantum simulations. | 4 | 0 | Dec 17, 2025 | Python | [MIT](https://github.com/MKPublishings/trifecta-sovereign-framework/blob/main/LICENSE) |
 | **[Q.F.S.T.D.S](https://github.com/MKPublishings/Q.F.S.T.D.S)** | Quantum Fibonacci Sequenced Transit Data Scheduler – Optimize data flows with quantum-inspired sequencing. | 1 | 0 | Dec 17, 2025 | Python | [MIT](https://github.com/MKPublishings/Q.F.S.T.D.S/blob/main/LICENSE) |
-| **[omni-mind-os](https://github.com/MKPublishings/omni-mind-os)** | A Modular Cognitive Engine for Multi‑Model AI Systems | 0 | 0 | Feb 18, 2026 | Python | [MIT](https://github.com/MKPublishings/Q.F.S.T.D.S/blob/main/LICENSE) |
+| **[omni-ai](https://github.com/MKPublishings/omni-ai)** | A Modular Cognitive Engine for Multi‑Model AI Systems | 1 | 0 | Feb 28, 2026 | Python | [MIT](https://github.com/MKPublishings/omni-ai/blob/main/LICENSE) |
 
 All projects are written in **Python** and have no open issues or pull requests—perfect for forking and experimenting!
 
